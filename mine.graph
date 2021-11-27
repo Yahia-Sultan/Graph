@@ -1,0 +1,32 @@
+Vertices
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Edges
+A B 4
+A E 2
+A G 1
+A J 7
+B E 12
+B C 1 
+C I 13 
+D F 9
+D H 3
+E B 1
+E G 9
+E J 6
+F D 6
+F H 4
+G A 2
+G E 1
+H D 1
+H F 7
+J E 5
